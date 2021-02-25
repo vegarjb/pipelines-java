@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/slalomhoustonte/SparkyApp/_apis/build/status/vegarjb.pipelines-java?branchName=master)](https://dev.azure.com/slalomhoustonte/SparkyApp/_build/latest?definitionId=11&branchName=master)
 
 # Contributing
 
